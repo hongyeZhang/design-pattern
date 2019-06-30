@@ -2,7 +2,7 @@ package factory;
 
 /**
  * @program: design-pattern-demo
- * @description:
+ * @description: 工厂模式
  * @author: ZHQ
  * @create: 2019-06-29 18:39
  **/

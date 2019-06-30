@@ -2,7 +2,7 @@ package abstractfactory;
 
 /**
  * @program: design-pattern-demo
- * @description:
+ * @description: 抽象工厂模式
  * @author: ZHQ
  * @create: 2019-06-29 19:29
  **/

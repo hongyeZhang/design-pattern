@@ -2,7 +2,7 @@ package builder;
 
 /**
  * @program: design-pattern-demo
- * @description:
+ * @description: 建造者模式
  * @author: ZHQ
  * @create: 2019-06-29 21:23
  **/

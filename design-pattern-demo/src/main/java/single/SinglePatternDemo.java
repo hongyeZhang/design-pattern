@@ -2,7 +2,7 @@ package single;
 
 /**
  * @program: design-pattern-demo
- * @description:
+ * @description: 单例模式
  * @author: ZHQ
  * @create: 2019-06-29 19:50
  **/

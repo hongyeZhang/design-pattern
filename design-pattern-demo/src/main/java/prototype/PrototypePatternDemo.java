@@ -2,7 +2,7 @@ package prototype;
 
 /**
  * @program: design-pattern-demo
- * @description: 用在节省资源，多次创建重复对象的时候
+ * @description: 原型模式
  * @author: ZHQ
  * @create: 2019-06-29 22:10
  **/
